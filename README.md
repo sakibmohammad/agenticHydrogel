@@ -256,10 +256,6 @@ python main_materials_llm.py ^
 ```
 The LLM only summarizes workflow results. It does not decide final scientific outputs.
 
-## Notes
-
-This repository is designed for research and manuscript development. Generated material candidates should be inspected before experimental use. The system is intended to assist hydrogel material design, not replace experimental validation.
-
 ## Citation
 
 ```
