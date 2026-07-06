@@ -184,7 +184,7 @@ For GPU/Colab use, install the CUDA-compatible version recommended by PyTorch.
 
 ## Running the Main CLI
 
-Installation
+Installation:
 
 Create and activate a conda environment:
 ```bash
