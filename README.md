@@ -259,5 +259,5 @@ The LLM only summarizes workflow results. It does not decide final scientific ou
 ## Citation
 
 ```
-Citation will be added after manuscript submission.
+Under review @Frotiers in Soft Matter
 ```
