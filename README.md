@@ -259,5 +259,5 @@ The LLM only summarizes workflow results. It does not decide final scientific ou
 ## Citation
 
 ```
-Under review @Frotiers in Soft Matter
+Under review @Frontiers in Soft Matter
 ```
