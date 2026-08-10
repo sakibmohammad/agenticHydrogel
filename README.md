@@ -1,4 +1,4 @@
-# Agentic Hydrogel: An Agentic AI Framework for Hydrogel Design, Analysis and Conditional Generation
+# Agentic Hydrogel: A Human-in-the-Loop Computational Workflow for Hydrogel Analysis and Conditional Candidate Generation
 
 Agentic Hydrogel is a lightweight agentic framework for automated hydrogel material data analysis. It supports regression, classification, conditional generaiton, data analysis, visualization, metric evaluation, and report generation using a human-in-the-loop command-line workflow.
 
