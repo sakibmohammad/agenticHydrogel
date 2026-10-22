@@ -259,5 +259,5 @@ The LLM only summarizes workflow results. It does not decide final scientific ou
 ## Citation
 
 ```
-Under review @Frontiers in Soft Matter
+Mohammad S and Hossain MS (2026) Agentic hydrogel: a human-in-the-loop computational workflow for hydrogel analysis and conditional candidate generation. Front. Soft Matter 6:1936657. doi: 10.3389/frsfm.2026.1936657
 ```
